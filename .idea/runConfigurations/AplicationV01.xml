@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AplicationV01" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="main.java.com.example.library.LibraryApplication" />
+    <module name="JavaProject01Bimestre" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
